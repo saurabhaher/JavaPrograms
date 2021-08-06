@@ -10,6 +10,7 @@ public class Train {
 	
 	Train(){}
 
+	
 	public Train(int trainNo, String trainName, String source, String destination, double ticketPrice) {
 		super();
 		this.trainNo = trainNo;

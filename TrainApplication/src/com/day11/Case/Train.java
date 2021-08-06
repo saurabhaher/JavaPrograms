@@ -9,7 +9,6 @@ public class Train {
 	private double ticketPrice;
 	
 	Train(){}
-
 	
 	public Train(int trainNo, String trainName, String source, String destination, double ticketPrice) {
 		super();
